@@ -1,4 +1,4 @@
-///Please ignore this file, i will make a new one if we really add translations to this website!
+# Please ignore this file, i will make a new one if we really add translations to this website!
 # Translating
 
 * Go to <https://hifum.in/#translator-mode>, new buttons will appear on the top-left
