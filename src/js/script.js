@@ -3,15 +3,15 @@ import 'whatwg-fetch';
 import "./closest";
 
 window.javascriptLocales = {
-	copyMessage: "Just wanted to let you know that Satania is always with you! Even inside your clipboard! We are everywhere and you should really join us!\n" +
+	copyMessage: "Just wanted to let you know that Hifumi is always with you! Even inside your clipboard! We are everywhere and you should really join us!\n" +
 		"Also yes, any website can access your clipboard however they want, isn't that creepy?\n" +
-		"Regardless, Satania is the BEST WAIFU, and you should agree! http://hifum.in/",
+		"Regardless, Hifumi is the BEST WAIFU, and you should agree! http://hifum.in/",
 	searchByVoice: "lmao, no one uses this button",
 	searchButton: "but the results are already there =]",
 	searchBar: "this isn't a real search bar",
 	snedHelp: "pls send helppp",
 	perfection: "perfection",
-	searchBarName: "satania",
+	searchBarName: "hifumi",
 	newTab: "Link opens in a new tab."
 }
 
@@ -183,7 +183,7 @@ searchbar.onclick = event => {
 	}
 
 	window.setTimeout(() => {
-		span.innerText = javascriptLocales.searchBarName || "satania";
+		span.innerText = javascriptLocales.searchBarName || "hifumi";
 	}, 2000);
 }
 
