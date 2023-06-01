@@ -23,7 +23,7 @@
   --background-tertiary-alt: #ffc7d4;
 
   /* Border-radius for the whole theme */
-  --border-radius: 20px;
+  --border-radius: 7px;
 }
 
 .theme-dark {
